@@ -1,0 +1,28 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.imageClass {
+  width: 244px;
+  height: 244px;
+}
+
+.memeContainer {
+  padding: 5px;
+  margin: 5px;
+  border: 1px solid black;
+  border-radius: 15px;
+}
+
+.memeBox {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.shimmerContainer {
+  width: 234px;
+  height: 234px;
+  background-color: gray;
+  margin-top: 25px;
+}
