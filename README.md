@@ -1,2 +1,2 @@
-# InfinteScrolling
+# Scrolling
 Created with CodeSandbox
